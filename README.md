@@ -1,1 +1,11 @@
 # jest-another-RPG
+- create repo
+- Github issue
+- branches
+- npm init (main)
+- npm install jest --save-dev 
+- change the script (jest)
+- create .gitignore and node_modules and .DS.Store
+- create lib -> create four js files
+- create _test_ -> create ramdon.test.js
+- npm run test
